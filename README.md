@@ -8,9 +8,9 @@
 
 ## Overview
 
-This repository hosts my personal portfolio website as a **Software Test Engineer / QA Automation Engineer** specializing in **Payments, POS, ECR, ISO 8583, EMV and enterprise application testing**.
+This repository hosts my personal portfolio website as a **Software Test Engineer** focused on **Manual QA, Payments, POS, ECR, ISO 8583, EMV, API testing, SQL validation, UAT and production support**.
 
-The portfolio is designed to present my professional experience, testing expertise, payment-domain knowledge and technical skills in a clean, recruiter-friendly format.
+The portfolio presents my strongest hands-on QA experience: understanding requirements, validating payment flows, reproducing defects, checking API/database behavior, supporting integrations and verifying fixes across test and production-like environments.
 
 ## Live Demo
 
@@ -26,24 +26,24 @@ The portfolio is designed to present my professional experience, testing experti
 
 ## Professional Focus
 
+- Manual functional testing
+- Regression, integration, SIT and UAT testing
 - Payment application testing
 - ISO 8583 transaction validation
 - EMV contact / contactless testing
 - POS and Android POS validation
 - ECR integration testing
-- REST API testing
+- REST API testing using Postman
 - Database validation using SQL
-- Regression and integration testing
-- UAT and production support
-- Issue reproduction and root-cause analysis
+- Defect reproduction and log analysis
+- Retesting and regression after fixes
+- Production support and root-cause investigation
 
-## Tech & Tools
+## Core Tools & Technologies
 
 <p>
+  <img src="https://img.shields.io/badge/Manual%20QA-Primary-0A66C2?style=flat-square" alt="Manual QA">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -52,13 +52,27 @@ The portfolio is designed to present my professional experience, testing experti
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
 </p>
 
+**Basic exposure / currently learning:** Newman · Selenium · beginner Python scripting
+
 ## Key Portfolio Sections
 
-- **Hero / Professional Branding** — Software Test Engineer | QA Automation | Payments & POS Systems
-- **About Me** — summary of payment and QA experience
-- **Core Expertise** — EMV, ISO 8583, POS/ECR, API testing, SQL, automation and client support
+- **Professional Branding** — Software Test Engineer | Manual QA | Payments & POS Systems | API Testing
+- **About Me** — summary of QA and payment-domain experience
+- **Core Expertise** — ISO 8583, EMV, POS/ECR, API testing, SQL, defect analysis and support
 - **Experience** — OMA Emirates Group, Done.ae / Emirates NBD and Aabasoft Technologies
+- **Featured Work** — manual QA, payment testing and API testing projects
 - **Contact** — portfolio, LinkedIn, email and resume access
+
+## Featured QA Projects
+
+### [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
+A sanitized manual payment-testing case study covering POS/ECR transaction scenarios, purchase, void, refund, reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and UAT checks.
+
+### [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
+A manual QA documentation showcase with test planning, test scenarios, detailed test cases, RTM, defect examples, regression checks, UAT readiness and reusable templates.
+
+### [API Testing Showcase](https://github.com/bijin1830/api-testing-framework)
+A Postman-focused REST API testing project with positive/negative validation and basic Newman execution for practice and demonstration.
 
 ## Repository Structure
 
@@ -74,15 +88,15 @@ The portfolio is designed to present my professional experience, testing experti
 
 This portfolio is deployed using **GitHub Pages** from the `main` branch.
 
-Any update pushed to `index.html` or supporting assets can be published through the same repository.
+Updates pushed to `index.html` or supporting assets are published through the same repository.
 
 ## About Me
 
-I am a Software Test Engineer based in the UAE with hands-on experience in payment systems, POS terminals, ECR integrations, API testing, database validation, UAT and production support.
+I am a Software Test Engineer based in the UAE with 3+ years of experience across payment systems, POS terminals, ECR integrations, API testing, database validation, UAT and production support.
 
-My strongest domain areas include:
+My strongest areas are:
 
-`ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `SQL` · `Selenium`
+`Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `SQL` · `UAT` · `Production Support`
 
 ## Contact
 
