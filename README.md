@@ -39,6 +39,16 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 - Retesting and regression after fixes
 - Production support and root-cause investigation
 
+## Payments QA Highlights
+
+- Purchase, void, refund, reversal and settlement lifecycle validation
+- POS / ECR integration and communication-flow testing
+- ISO 8583 request / response and response-code analysis
+- EMV contact and contactless flow validation
+- Timeout, fallback and Last Transaction scenario testing
+- API and database validation around payment transactions
+- UAT support, production issue reproduction and evidence collection
+
 ## Core Tools & Technologies
 
 <p>
@@ -52,14 +62,14 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
 </p>
 
-**Basic exposure / currently learning:** Newman · Selenium · beginner Python scripting
+**Currently expanding automation skills:** Newman · Selenium · Python scripting
 
 ## Key Portfolio Sections
 
 - **Professional Branding** — Software Test Engineer | Manual QA | Payments & POS Systems | API Testing
 - **About Me** — summary of QA and payment-domain experience
 - **Core Expertise** — ISO 8583, EMV, POS/ECR, API testing, SQL, defect analysis and support
-- **Experience** — OMA Emirates Group, Done.ae / Emirates NBD and Aabasoft Technologies
+- **Experience** — OMA Emirates Group and Aabasoft Technologies
 - **Featured Work** — manual QA, payment testing and API testing projects
 - **Contact** — portfolio, LinkedIn, email and resume access
 
@@ -72,16 +82,18 @@ A sanitized manual payment-testing case study covering POS/ECR transaction scena
 A manual QA documentation showcase with test planning, test scenarios, detailed test cases, RTM, defect examples, regression checks, UAT readiness and reusable templates.
 
 ### [API Testing Showcase](https://github.com/bijin1830/api-testing-framework)
-A Postman-focused REST API testing project with positive/negative validation and basic Newman execution for practice and demonstration.
+A Postman-focused REST API testing project with positive/negative validation, environment variables, Newman execution and GitHub Actions for demonstration and continuous validation.
 
 ## Repository Structure
 
 ```text
 .
-├── index.html                      # Main portfolio website
-├── hero_small_70.webp              # Portfolio hero image
-├── Bijin_Benni_Resume_2026%204.pdf # Resume used by the portfolio
-└── README.md                       # Project documentation
+├── index.html                   # Main portfolio website
+├── hero_full.svg                # Portfolio hero artwork
+├── hero_small_70.webp           # Portfolio preview image
+├── favicon.svg                  # Site favicon
+├── Bijin_Benni_Resume_2026.pdf  # Resume used by the portfolio
+└── README.md                    # Project documentation
 ```
 
 ## Deployment
