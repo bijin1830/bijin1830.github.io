@@ -46,7 +46,8 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 - ISO 8583 request / response and response-code analysis
 - EMV contact and contactless flow validation
 - Timeout, fallback and Last Transaction scenario testing
-- API and database validation around payment transactions
+- API and SQL/database validation around payment transactions
+- Requirement-to-test traceability and evidence-based defect investigation
 - UAT support, production issue reproduction and evidence collection
 
 ## Core Tools & Technologies
@@ -76,7 +77,7 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 ## Featured QA Projects
 
 ### [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
-A sanitized manual payment-testing case study covering POS/ECR transaction scenarios, purchase, void, refund, reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and UAT checks.
+A sanitized payment-testing case study covering POS/ECR transaction scenarios, purchase, void, refund, reversal, timeout recovery, fallback, settlement, ISO 8583 validation, EMV analysis, SQL validation, traceability, defect investigation and UAT checks.
 
 ### [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
 A manual QA documentation showcase with test planning, test scenarios, detailed test cases, RTM, defect examples, regression checks, UAT readiness and reusable templates.
