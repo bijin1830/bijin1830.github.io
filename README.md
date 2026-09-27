@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository hosts my personal portfolio website as a **Software Test Engineer** focused on **Manual QA, Payments, POS, ECR, ISO 8583, EMV, API testing, SQL validation, UAT and production support**.
+This repository hosts my personal portfolio website as a **Software Test Engineer** focused on **Manual QA, Payments, POS, ECR, ISO 8583, EMV, API testing, basic SQL/data verification, UAT and production support**.
 
 The portfolio presents my strongest hands-on QA experience: understanding requirements, validating payment flows, reproducing defects, checking API/database behavior, supporting integrations and verifying fixes across test and production-like environments.
 
@@ -34,7 +34,7 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 - POS and Android POS validation
 - ECR integration testing
 - REST API testing using Postman
-- Database validation using SQL
+- Basic SQL/data checks for QA verification
 - Defect reproduction and log analysis
 - Retesting and regression after fixes
 - Production support and root-cause investigation
@@ -46,7 +46,8 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 - ISO 8583 request / response and response-code analysis
 - EMV contact and contactless flow validation
 - Timeout, fallback and Last Transaction scenario testing
-- API and database validation around payment transactions
+- API checks and basic SQL/data verification around payment transactions
+- Requirement-to-test traceability and evidence-based defect investigation
 - UAT support, production issue reproduction and evidence collection
 
 ## Core Tools & Technologies
@@ -68,7 +69,7 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 
 - **Professional Branding** — Software Test Engineer | Manual QA | Payments & POS Systems | API Testing
 - **About Me** — summary of QA and payment-domain experience
-- **Core Expertise** — ISO 8583, EMV, POS/ECR, API testing, SQL, defect analysis and support
+- **Core Expertise** — ISO 8583, EMV, POS/ECR, API testing, basic SQL/data checks, defect analysis and support
 - **Experience** — OMA Emirates Group and Aabasoft Technologies
 - **Featured Work** — manual QA, payment testing and API testing projects
 - **Contact** — portfolio, LinkedIn, email and resume access
@@ -76,7 +77,7 @@ The portfolio presents my strongest hands-on QA experience: understanding requir
 ## Featured QA Projects
 
 ### [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
-A sanitized manual payment-testing case study covering POS/ECR transaction scenarios, purchase, void, refund, reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and UAT checks.
+A sanitized payment-testing case study covering POS/ECR transaction scenarios, purchase, void, refund, reversal, timeout recovery, fallback, settlement, ISO 8583 validation, EMV analysis, basic SQL/data verification, traceability, defect investigation and UAT checks.
 
 ### [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
 A manual QA documentation showcase with test planning, test scenarios, detailed test cases, RTM, defect examples, regression checks, UAT readiness and reusable templates.
@@ -108,7 +109,7 @@ I am a Software Test Engineer based in the UAE with 3+ years of experience acros
 
 My strongest areas are:
 
-`Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `SQL` · `UAT` · `Production Support`
+`Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `Basic SQL` · `UAT` · `Production Support`
 
 ## Contact
 
